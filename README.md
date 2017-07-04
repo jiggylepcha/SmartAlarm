@@ -1,2 +1,5 @@
 # SmartAlarm
-An IED Project.
+
+Alarm clocks have been with mankind since ages, but most alarm clocks just alert people that a particular hour has reached in a day and nothing more. Limited functionality in an alarm clock makes it mundane and unoriginal. To make things more interesting and better, we plan to develop an alarm clock which does more than just wake you up, which is more like your daily morning assistant. This alarm clock of ours is a rather smart one, it not only does ring at a specified time but also reads out your emails, deadlines, backpack announcements, daily weather forecast etc. all of which is voice controlled.
+ 
+Our alarm clock is also designed for people who at times oversleep or for those people who feel lethargic while waking up. Often people just snooze the alarm or just turn it off only to find that precious time has been wasted by just sleeping. Our alarm clock is designed in such a manner that it does not stop ringing until basic arithmetic questions are answered correctly. Since all of the functionalities are voice controlled like setting up alarms, choosing which mails to read etc. make this alarm clock a smart alarm clock.
